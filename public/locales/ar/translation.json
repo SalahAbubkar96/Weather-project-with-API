@@ -1,0 +1,16 @@
+{
+    "hello world":"أهلا بالعالم",
+    "min": "الصغرى",
+    "max": "الكبرى",
+    "broken clouds":"سحب خفيفه",
+    "clear sky":"منظر صافي",
+    "Al-Hofuf":"الهفوف",
+    "scattered clouds":"غيوم متفرقة",
+    "shower rain":"امطار شديده",
+        "rain":"امطار",
+        "thunderstorm":"عاصفة رعدية",
+        "snow":"ثلوج",
+        "mist":"ضباب",
+        "few clouds":"غيوم قليله"
+
+}
