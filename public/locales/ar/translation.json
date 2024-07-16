@@ -11,6 +11,7 @@
         "thunderstorm":"عاصفة رعدية",
         "snow":"ثلوج",
         "mist":"ضباب",
-        "few clouds":"غيوم قليله"
+        "few clouds":"غيوم قليله",
+        "overcast clouds":"غيوم مبلده بغيوم"
 
 }
